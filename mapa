@@ -26,8 +26,8 @@
   {
     "key" : "Distrito Federal",
     "name" : "Distrito Federal",
-    "latitude" : -15.7795,
-    "longitude" : -47.9297
+    "height" : -15.7795,
+    "length" : -47.9297
   },
   {
     "key" : "MS",
